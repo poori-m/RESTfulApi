@@ -6,6 +6,6 @@
 2-php artisan migrate
 3-php artisan serv
 
-##Detail
--This Api for CRUD Databse
+## Detail
+This Api for CRUD Databse
 
